@@ -1,0 +1,3 @@
+appname=DotNet-APP
+port=5160
+environment=Production 
